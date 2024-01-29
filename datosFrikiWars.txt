@@ -28,3 +28,6 @@ Cromo 02 - Cromo 05 - Cromo 06 - false
 Cromo 01 - Cromo 02 - Cromo 03 - true
 Cromo 04 - Cromo 05 - Cromo 08 - false
 Cromo 02 - Cromo 01 - Cromo 05 - true
+Cromo 05 - Cromo 06 - Cromo 08 - false
+Cromo 04 - Cromo 01 - Cromo 06 - false
+Cromo 08 - Cromo 05 - Cromo 02 - true

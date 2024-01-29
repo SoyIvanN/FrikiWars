@@ -261,7 +261,7 @@ public class Friki extends JFrame {
 	
 	private static int generadorAdivinar() {
 	    int nuevoNumero = (int) (Math.random() * (10 - 1)) + 1;
-	    while (nuevoNumero == num || nuevoNumero == numFoto1 || nuevoNumero == numFoto2) {
+	    while (nuevoNumero == num || nuevoNumero == numFoto1 || nuevoNumero == numFoto2 || nuevoNumero ==numFoto3) {
 	        nuevoNumero = (int) (Math.random() * (10 - 1)) + 1;
 	    }
 	    return nuevoNumero;
