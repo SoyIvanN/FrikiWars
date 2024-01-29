@@ -249,6 +249,7 @@ public class Friki extends JFrame {
 			deshabilitarBotones();
 			btnVolverATirar.setEnabled(false);
 			verMensaje("Has obtenido "+aciertos+"/10 aciertos.\n Felicidades!!");
+			dispose();
 		}
 	}
 	
