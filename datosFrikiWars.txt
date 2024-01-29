@@ -1,0 +1,10 @@
+Cromo 06 - Cromo 03 - Cromo 05 - false
+Cromo 04 - Cromo 08 - Cromo 01 - false
+Cromo 03 - Cromo 04 - Cromo 09 - false
+Cromo 08 - Cromo 02 - Cromo 05 - false
+Cromo 01 - Cromo 03 - Cromo 02 - false
+Cromo 07 - Cromo 06 - Cromo 08 - false
+Cromo 09 - Cromo 07 - Cromo 05 - false
+Cromo 02 - Cromo 04 - Cromo 03 - false
+Cromo 01 - Cromo 07 - Cromo 02 - true
+Cromo 04 - Cromo 03 - Cromo 09 - false
